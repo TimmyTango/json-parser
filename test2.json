@@ -1,0 +1,14 @@
+{
+    "parsed": true,
+    "string": "this is a string",
+    "escape": "this has an \"escape\"",
+    "nullVal": null,
+    "number": 10,
+    "float": 3.14159,
+    "negative": -20.123,
+    "array": [1, 2, 3],
+    "nested": {
+        "nestedVar": 123,
+        "isNested": true
+    }
+}
